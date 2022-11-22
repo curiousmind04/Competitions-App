@@ -1,0 +1,27 @@
+.input {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.input input {
+  height: 40px;
+  width: 50%;
+  font-size: 17px;
+  border: 3px solid black;
+}
+
+.bttn {
+  display: flex;
+  justify-content: center;
+}
+
+.bttn button {
+  height: 30px;
+  width: 100px;
+  background-color: rgb(157, 196, 196);
+}
+
+.bttn button:hover {
+  background: rgb(240, 175, 229);
+}

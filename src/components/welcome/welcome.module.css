@@ -1,0 +1,13 @@
+.container {
+  background-color: #fff;
+  text-align: center;
+  height: 100vh;
+}
+
+.container h1 {
+  padding-top: 30vh;
+}
+
+.container p {
+  padding-top: 10vh;
+}
